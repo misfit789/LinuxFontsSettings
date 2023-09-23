@@ -11,5 +11,6 @@ Debian12系统环境下，安装Noto字体：`sudo apt install fonts-noto`，更
 `fonts.conf`文件直接存放在`~/.config/fontconfig/`路径下即可。
 
 ## 参考文章
-[基本根据这篇文章来设置](https://szclsya.me/zh-cn/posts/fonts/linux-config-guide/)
-[参考文件路径的设置](https://ivonblog.com/posts/linux-fontconfig/)
+- [基本根据这篇文章来设置](https://szclsya.me/zh-cn/posts/fonts/linux-config-guide/)
+- [参考文件路径的设置](https://ivonblog.com/posts/linux-fontconfig/)
+- [markdown基础语法](https://www.markdownguide.org/basic-syntax/)
